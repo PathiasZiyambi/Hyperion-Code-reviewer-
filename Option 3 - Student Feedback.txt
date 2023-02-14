@@ -1,0 +1,23 @@
+
+As a mentor, it is important to handle student concerns in a professional and effective manner.
+Here is how you can handle the situation :
+
+1. Step back: Approach situation with a clear mind
+
+2. Schedule a meeting: Next step schedule a one on one meeting to discuss concerns .During the 
+   meeting listen to the students's perspective and address their concerns.
+
+3. Review Feedback: Review the feedback provided in the code review and explain to the student
+   until they understand. The mentor should point out specific examples from feedback to 
+   demonstrate its value.
+
+4. Apologise if necessary: The mentor should apologize if there is any mistakes made and make
+   sure the mistake is fixed. Always be responsible for your own actions .
+
+5. Come up with a plan: Work with the student to come up with a plan to address their concerns and ensure that feedback 
+   provided in future code review is helpful
+
+6. Monitor the situation: The mentor should monitor the student and check in to see if there is changes made have a
+   positive impact.
+
+By following the steps it can handle the situation

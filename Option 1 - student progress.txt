@@ -1,0 +1,30 @@
+Option 1 - Student Progress
+
+As a mentor, it is important to address the situation with the 20 part-time students in a timely and effective manner.
+The following plan will address students that are behind and at-risk, while ensuring the students that are ahead are 
+not impacted:
+
+1. Evaluate the situation: First set is to understand why students are behind or at risk. It can be due to
+   personal or professional commitments , not understanding what they are doing , and other reasons 
+
+2. Set a one-on-one meeting with the Students that are behind or at risk: In these meetings the mentor can discuss their
+   concerns and offer support and guidance to help students that are behind to be back on track. The mentor and students
+   can set goals and come up with a plan to reach those goals
+
+3. Offer resources that will come up with a solution: The mentor can offer resources that will come up with a solution.
+   Resources like study groups, online links or tutorial ,one-on-one sessions regulary , to help students that are behind 
+   or at risk .
+
+4. Communication: The mentor can encourage communication between instructors, students and themselves to ensure that 
+   everyone is aware of the situation and can work together to come up with a solution
+
+5. Come up with a plan: Work with the student to come up with a plan to address their concerns and ensure that feedback 
+   provided in future code review is helpful
+
+6. Monitor the situation: The mentor should monitor the student and check in to see if there is changes made have a
+   Positive impact.
+
+By following the plan it will address students that are behind and at risk ,will also ensure that students that are ahead
+don't get affected.
+
+
